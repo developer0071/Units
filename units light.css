@@ -42,11 +42,11 @@ button:active{
     text-shadow:
     0 0 3px rgb(39, 0, 0),
     0 0 5px rgb(255, 255, 255);
-    border: solid 1px rgb(61, 61, 61);
+    border: solid 1px rgb(224, 224, 224);
     box-shadow: 
     0 0 10px white,
     inset 20px 20px 10px white,
-    0 0 15px white;    
+    0 0 15px white;   
     cursor: pointer;
     transition: all .9s;
 }
@@ -64,12 +64,11 @@ button:active{
     text-shadow:
     0 0 3px rgb(39, 0, 0),
     0 0 5px rgb(255, 255, 255);
-    border: solid 1px rgb(61, 61, 61);
-    border: solid 1px rgb(61, 61, 61);
+    border: solid 1px rgb(224, 224, 224);
     box-shadow: 
     0 0 10px white,
     inset 20px 20px 10px white,
-    0 0 15px white;  
+    0 0 15px white;
     cursor: pointer;
     transition: all .9s;
 }
