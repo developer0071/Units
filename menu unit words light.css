@@ -77,3 +77,30 @@ button:active{
     cursor: pointer;
     transition: all .9s;
 }
+.new1{
+    display: block;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: flex;
+    box-shadow: 
+    0 0 5px white,
+    inset 0 0 10px white,
+    0 0 15px white;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.new2{
+    border-radius: 50px;
+    display: block;
+    margin-top: 15px;
+    display: flex;
+    box-shadow: 
+    0 0 5px white,
+    inset 0 0 10px white,
+    0 0 15px white;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
